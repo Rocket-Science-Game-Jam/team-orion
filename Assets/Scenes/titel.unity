@@ -534,6 +534,20 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   timer: 16
+  onMovieEnd:
+    m_PersistentCalls:
+      m_Calls:
+      - m_Target: {fileID: 3347983256077491274}
+        m_MethodName: LoadSceneWithIndex
+        m_Mode: 3
+        m_Arguments:
+          m_ObjectArgument: {fileID: 0}
+          m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
+          m_IntArgument: 1
+          m_FloatArgument: 0
+          m_StringArgument: 
+          m_BoolArgument: 0
+        m_CallState: 2
 --- !u!1 &963194225
 GameObject:
   m_ObjectHideFlags: 0
@@ -686,3 +700,15 @@ PrefabInstance:
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 14b528f06e6ef504c996ece0385c56e5, type: 3}
+--- !u!114 &3347983256077491274 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 3347983254811392637, guid: 14b528f06e6ef504c996ece0385c56e5,
+    type: 3}
+  m_PrefabInstance: {fileID: 3347983256077491273}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c47da402496f3944aa1c9259e6129d21, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

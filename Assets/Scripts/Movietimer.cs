@@ -1,26 +1,22 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using UnityEngine.Events;
 
-public class Movietimer : MonoBehaviour
-{
+public class Movietimer : MonoBehaviour {
+
     public float timer = 16f;
-    private float currenttime = 0f;
-    
+    public UnityEvent onMovieEnd = new UnityEvent();
 
-    // Update is called once per frame
-    void Update()
-    {
-        if(currenttime<timer)
-        {
+    private float currenttime = 0f;
+
+    /// <summary>
+    /// Update is called once per frame
+    /// </summary>
+    void Update() {
+        if (currenttime < timer) {
             currenttime += Time.deltaTime;
             Debug.Log("time: " + currenttime);
+        } else {
+            onMovieEnd.Invoke();
         }
-        else {
-            Debug.Log("end");
-        }
-
-   
-        
     }
 }
