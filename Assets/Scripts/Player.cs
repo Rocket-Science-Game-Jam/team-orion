@@ -23,4 +23,11 @@ public class Player : MonoBehaviour {
         healthbar.SetHealth(health);
     }
 
+    public void AddHealth(int value) {
+        health += value;
+        if(health > healthbar.GetMaxHealth()) {
+            health = healthbar.GetMaxHealth();
+        }
+    }
+
 }
