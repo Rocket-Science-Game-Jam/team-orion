@@ -5,10 +5,6 @@ public class PlayerMovement : MonoBehaviour {
 
     [SerializeField]
     private float moveSpeed = 10.0f;
-    [SerializeField]
-    private float tilt = 4;
-    [SerializeField]
-    private Boundary boundary = new Boundary();
 
     private Animator anim;
     private Rigidbody2D rb;
@@ -40,11 +36,6 @@ public class PlayerMovement : MonoBehaviour {
         playerInput.y = Input.GetAxis("Vertical");
 
         rb.velocity = playerInput * moveSpeed;
-
-        rb.position = new Vector2(
-            Mathf.Clamp(rb.position.x, boundary.xMin, boundary.xMax),
-            Mathf.Clamp(rb.position.y, boundary.yMin, boundary.yMax)
-        );
     }
 
 }
