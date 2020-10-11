@@ -97,7 +97,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   damage: 15
-  explodeDuration: 1
+  explodeDuration: 0
   rotationSpeed: 10
 --- !u!61 &6066028662797907644
 BoxCollider2D:

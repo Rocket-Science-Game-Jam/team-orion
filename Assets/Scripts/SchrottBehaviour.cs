@@ -20,6 +20,7 @@ public class SchrottBehaviour : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D collision) {
         GameObject obj = collision.gameObject;
         if(obj.tag == "Player") {
+            Destroy(this);
             obj.GetComponent<Player>().TakeDamage(damage);
             StartCoroutine(Explode());
         }
