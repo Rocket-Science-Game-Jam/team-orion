@@ -8,6 +8,7 @@ public class Medikit : MonoBehaviour {
     private void OnTriggerEnter2D(Collider2D collision) {
         GameObject obj = collision.gameObject;
         if (obj.tag == "Player") {
+            Destroy(gameObject);
             obj.GetComponent<Player>().AddHealth(health);
         }
     }

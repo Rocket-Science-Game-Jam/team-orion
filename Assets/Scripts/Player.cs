@@ -37,13 +37,15 @@ public class Player : MonoBehaviour {
 
     public void AddHealth(int value) {
         health += value;
-        if(health > healthbar.GetMaxHealth()) {
+        if (health > healthbar.GetMaxHealth()) {
             health = healthbar.GetMaxHealth();
         }
+        healthbar.SetHealth(health);
     }
 
     private IEnumerator playerDied() {
         Destroy(GetComponent<SpriteRenderer>());
+        Destroy(GetComponent<BoxCollider2D>());
         Destroy(transform.GetChild(0).GetComponent<SpriteRenderer>());
         for (int i = 0; i < 10; i++) {
             InstantiateExplosion();
