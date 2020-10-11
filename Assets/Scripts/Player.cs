@@ -6,7 +6,6 @@ public class Player : MonoBehaviour {
     private int health = 100;
     [SerializeField]
     private HealthBar healthbar = null;
-    private int score = 0;
 
     /// <summary>
     /// Start is called before the first frame update
@@ -17,6 +16,11 @@ public class Player : MonoBehaviour {
         } else {
             Debug.LogWarning("Player: no healbar found");
         }
+    }
+
+    public void TakeDamage(int damage) {
+        health -= damage;
+        healthbar.SetHealth(health);
     }
 
 }

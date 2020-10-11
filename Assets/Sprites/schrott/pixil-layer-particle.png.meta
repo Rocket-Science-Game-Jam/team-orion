@@ -1,12 +1,240 @@
 fileFormatVersion: 2
 guid: fa5ab2313a1584540acd44ac7cd24e0e
 TextureImporter:
-  internalIDToNameTable: []
+  internalIDToNameTable:
+  - first:
+      213: -9101749753918371319
+    second: pixil-layer-particle_0
+  - first:
+      213: 3550857425262360321
+    second: pixil-layer-particle_1
+  - first:
+      213: 8199165084040443462
+    second: pixil-layer-particle_2
+  - first:
+      213: 7937235457675626089
+    second: pixil-layer-particle_3
+  - first:
+      213: 2181700916228718776
+    second: pixil-layer-particle_4
+  - first:
+      213: 836848124809291136
+    second: pixil-layer-particle_5
+  - first:
+      213: 4868109313856405132
+    second: pixil-layer-particle_6
+  - first:
+      213: -6042349464389730573
+    second: pixil-layer-particle_7
+  - first:
+      213: -2069541144537980869
+    second: pixil-layer-particle_8
+  - first:
+      213: 3976533492612285179
+    second: pixil-layer-particle_9
+  - first:
+      213: -2028068333127093869
+    second: pixil-layer-particle_10
+  - first:
+      213: 5481320717351114799
+    second: pixil-layer-particle_11
+  - first:
+      213: -2801798691754270692
+    second: pixil-layer-particle_12
+  - first:
+      213: 932623391120785073
+    second: pixil-layer-particle_13
+  - first:
+      213: 835699519845832939
+    second: pixil-layer-particle_14
+  - first:
+      213: 930285138149971951
+    second: pixil-layer-particle_15
+  - first:
+      213: -978306169082304363
+    second: pixil-layer-particle_16
+  - first:
+      213: -8871579759096537487
+    second: pixil-layer-particle_17
+  - first:
+      213: -1846237068505646541
+    second: pixil-layer-particle_18
+  - first:
+      213: 3311341451497022625
+    second: pixil-layer-particle_19
+  - first:
+      213: -8147976223676871400
+    second: pixil-layer-particle_20
+  - first:
+      213: -7261350974122311420
+    second: pixil-layer-particle_21
+  - first:
+      213: -6765787891143971132
+    second: pixil-layer-particle_22
+  - first:
+      213: 8661970721412740499
+    second: pixil-layer-particle_23
+  - first:
+      213: 4944434421913509434
+    second: pixil-layer-particle_24
+  - first:
+      213: -345410332611012900
+    second: pixil-layer-particle_25
+  - first:
+      213: -2040000344738040490
+    second: pixil-layer-particle_26
+  - first:
+      213: -1974347854976441191
+    second: pixil-layer-particle_27
+  - first:
+      213: 2994648837721178122
+    second: pixil-layer-particle_28
+  - first:
+      213: 9011784277794786052
+    second: pixil-layer-particle_29
+  - first:
+      213: 2277513767652757890
+    second: pixil-layer-particle_30
+  - first:
+      213: 7206539302474459968
+    second: pixil-layer-particle_31
+  - first:
+      213: -6920889988160186108
+    second: pixil-layer-particle_32
+  - first:
+      213: -7398462945792280071
+    second: pixil-layer-particle_33
+  - first:
+      213: -6692926067046004386
+    second: pixil-layer-particle_34
+  - first:
+      213: -4731223932196554625
+    second: pixil-layer-particle_35
+  - first:
+      213: -5069351459691381317
+    second: pixil-layer-particle_36
+  - first:
+      213: 1109063395968642061
+    second: pixil-layer-particle_37
+  - first:
+      213: -4215365579796256282
+    second: pixil-layer-particle_38
+  - first:
+      213: 1838331488877430568
+    second: pixil-layer-particle_39
+  - first:
+      213: -6566618102802452767
+    second: pixil-layer-particle_40
+  - first:
+      213: 6141355591242645286
+    second: pixil-layer-particle_41
+  - first:
+      213: -917804143370738491
+    second: pixil-layer-particle_42
+  - first:
+      213: 8234786099947166804
+    second: pixil-layer-particle_43
+  - first:
+      213: 3866517641282130147
+    second: pixil-layer-particle_44
+  - first:
+      213: -5026107382662687056
+    second: pixil-layer-particle_45
+  - first:
+      213: 3258540422504099950
+    second: pixil-layer-particle_46
+  - first:
+      213: -6592463534000789269
+    second: pixil-layer-particle_47
+  - first:
+      213: 1564600016888099468
+    second: pixil-layer-particle_48
+  - first:
+      213: -6326190386750203210
+    second: pixil-layer-particle_49
+  - first:
+      213: -3055030456776414785
+    second: pixil-layer-particle_50
+  - first:
+      213: 2062664201047696906
+    second: pixil-layer-particle_51
+  - first:
+      213: -7884437264564233395
+    second: pixil-layer-particle_52
+  - first:
+      213: -6475812552941423145
+    second: pixil-layer-particle_53
+  - first:
+      213: -397308833137979206
+    second: pixil-layer-particle_54
+  - first:
+      213: -3539710370113780999
+    second: pixil-layer-particle_55
+  - first:
+      213: 4379495782494653069
+    second: pixil-layer-particle_56
+  - first:
+      213: 6083101701408863016
+    second: pixil-layer-particle_57
+  - first:
+      213: -9201426531676671731
+    second: pixil-layer-particle_58
+  - first:
+      213: -2777005810351736424
+    second: pixil-layer-particle_59
+  - first:
+      213: 1015922052424592760
+    second: pixil-layer-particle_60
+  - first:
+      213: -8361997417920940063
+    second: pixil-layer-particle_61
+  - first:
+      213: 6331557980704288952
+    second: pixil-layer-particle_62
+  - first:
+      213: -422113394849728145
+    second: pixil-layer-particle_63
+  - first:
+      213: 3945304298170148605
+    second: pixil-layer-particle_64
+  - first:
+      213: -8310138996763409330
+    second: pixil-layer-particle_65
+  - first:
+      213: -4740646378070335805
+    second: pixil-layer-particle_66
+  - first:
+      213: 6774136965079034054
+    second: pixil-layer-particle_67
+  - first:
+      213: -2779803573553305853
+    second: pixil-layer-particle_68
+  - first:
+      213: -900004906516910558
+    second: pixil-layer-particle_69
+  - first:
+      213: 4832593223669719549
+    second: pixil-layer-particle_70
+  - first:
+      213: -3144618766676864408
+    second: pixil-layer-particle_71
+  - first:
+      213: 551188822005949779
+    second: pixil-layer-particle_72
+  - first:
+      213: -336612189606580741
+    second: pixil-layer-particle_73
+  - first:
+      213: 7029771335998858212
+    second: pixil-layer-particle_74
+  - first:
+      213: 3059750397709969944
+    second: pixil-layer-particle_75
   externalObjects: {}
   serializedVersion: 11
   mipmaps:
     mipMapMode: 0
-    enableMipMap: 1
+    enableMipMap: 0
     sRGBTexture: 1
     linearTexture: 0
     fadeOut: 0
@@ -31,16 +259,16 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: -1
+    filterMode: 0
     aniso: -1
     mipBias: -100
-    wrapU: -1
-    wrapV: -1
+    wrapU: 1
+    wrapV: 1
     wrapW: -1
-  nPOTScale: 1
+  nPOTScale: 0
   lightmap: 0
   compressionQuality: 50
-  spriteMode: 0
+  spriteMode: 2
   spriteExtrude: 1
   spriteMeshType: 1
   alignment: 0
@@ -51,7 +279,7 @@ TextureImporter:
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
-  textureType: 0
+  textureType: 8
   textureShape: 1
   singleChannelComponent: 0
   maxTextureSizeSet: 0
@@ -61,10 +289,10 @@ TextureImporter:
   platformSettings:
   - serializedVersion: 3
     buildTarget: DefaultTexturePlatform
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -73,10 +301,10 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   - serializedVersion: 3
     buildTarget: Standalone
-    maxTextureSize: 2048
+    maxTextureSize: 1024
     resizeAlgorithm: 0
     textureFormat: -1
-    textureCompression: 1
+    textureCompression: 0
     compressionQuality: 50
     crunchedCompression: 0
     allowsAlphaSplitting: 0
@@ -85,11 +313,263 @@ TextureImporter:
     forceMaximumCompressionQuality_BC6H_BC7: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: pixil-layer-particle_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 815
+        width: 92
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10732d8d30e274130800000000000000
+      internalID: 3550857425262360321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_6
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 860
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8e7e2ce0affe8340800000000000000
+      internalID: 4868109313856405132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_11
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 830
+        width: 92
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28d3b1b620911c40800000000000000
+      internalID: 5481320717351114799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_17
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 750
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e51867631d1e480800000000000000
+      internalID: -8871579759096537487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_23
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 650
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 395f3a06a70853870800000000000000
+      internalID: 8661970721412740499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_24
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 520
+        width: 110
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3e5e55f8e82e9440800000000000000
+      internalID: 4944434421913509434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_25
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 530
+        width: 90
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd698fee12bd43bf0800000000000000
+      internalID: -345410332611012900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_31
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 460
+        width: 90
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ba1ef4055c20460800000000000000
+      internalID: 7206539302474459968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_37
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 200
+        width: 210
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c6916584f246f00800000000000000
+      internalID: 1109063395968642061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_51
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 250
+        width: 90
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a06ec52992e00ac10800000000000000
+      internalID: 2062664201047696906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_71
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 0
+        width: 142
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862d23284e11c54d0800000000000000
+      internalID: -3144618766676864408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pixil-layer-particle_74
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 10
+        width: 90
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e36f66e8c3ce8160800000000000000
+      internalID: 7029771335998858212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
     outline: []
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: 5e97eb03825dee720800000000000000
     internalID: 0
     vertices: []
     indices: 
