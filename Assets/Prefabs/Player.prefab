@@ -216,7 +216,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   moveSpeed: 10
-  player: {fileID: 112434846}
 --- !u!95 &1635303435
 Animator:
   serializedVersion: 3
